@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1895b20c-15d5-4bfb-b125-1782975313fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PortalKashio_RQ.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulos/componente_ruteo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/pyi_configuracion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/pyi_creacionComercio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/pyo_ruteo.py" afterDir="false" />
-    </list>
+    <list default="true" id="1895b20c-15d5-4bfb-b125-1782975313fc" name="Changes" comment="appModulos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +51,30 @@
       <option name="presentableId" value="Default" />
       <updated>1779675859996</updated>
     </task>
+    <task id="LOCAL-00001" summary="appModulos">
+      <option name="closed" value="true" />
+      <created>1779677670353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779677670353</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="appModulos" />
+    <option name="LAST_COMMIT_MESSAGE" value="appModulos" />
   </component>
 </project>
