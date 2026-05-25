@@ -17,6 +17,6 @@ st.header("📋 Resumen de Configuración")
 st.dataframe(df_resumen, use_container_width=True, hide_index=True)
 st.divider()
 
-st.header("3. JSON Resultante")
+st.header("3. JSON Resultante:")
 st.code(json.dumps(json_final, indent=4, ensure_ascii=False), language='json')
 st.download_button(label="Descargar JSON", file_name="config.json", mime="application/json", data=json.dumps(json_final, indent=4))
