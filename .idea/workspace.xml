@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1895b20c-15d5-4bfb-b125-1782975313fc" name="Changes" comment="appModulos">
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    <list default="true" id="1895b20c-15d5-4bfb-b125-1782975313fc" name="Changes" comment="ajuste_ruteoPages_2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pyo_creacionComercio.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pyo_creacionComercio.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Jrios05"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Jrios05&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Jrios05/PortalKashio_RQ",
-    "accountId": "48ad243b-d760-4d67-b227-b25dd0a9a229"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Jrios05/PortalKashio_RQ&quot;,
+    &quot;accountId&quot;: &quot;48ad243b-d760-4d67-b227-b25dd0a9a229&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3ECHvEkjEzrhTiug8WUK9AKsWPU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,6 +48,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
@@ -89,7 +91,23 @@
       <option name="project" value="LOCAL" />
       <updated>1779678003255</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ajuste_ruteoPages">
+      <option name="closed" value="true" />
+      <created>1779679210577</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779679210577</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ajuste_ruteoPages_2">
+      <option name="closed" value="true" />
+      <created>1779679342759</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1779679342759</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +123,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="appModulos" />
-    <option name="LAST_COMMIT_MESSAGE" value="appModulos" />
+    <MESSAGE value="ajuste_ruteoPages" />
+    <MESSAGE value="ajuste_ruteoPages_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajuste_ruteoPages_2" />
   </component>
 </project>

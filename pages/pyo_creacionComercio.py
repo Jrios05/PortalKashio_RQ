@@ -79,7 +79,7 @@ if st.button("Generar Solicitud"):
             msg.attach(adjunto)
             archivo_adjunto.seek(0)
 
-        with smtplib.SMTP('smtp.gmail.com', 587) as server:
+        with smtplib.SMTP('smtp.office365.com', 587) as server:
             server.starttls()
             server.login(remitente, password)
             server.send_message(msg)
